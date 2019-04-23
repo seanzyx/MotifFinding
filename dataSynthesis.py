@@ -39,7 +39,7 @@ path = os.getcwd()
 
 
 
-alphabet = ['A', 'C', 'G', 'T']
+alphabet = ['A', 'T', 'C', 'G']
 #ICPC, ML, SL, SC
 parameters = [
 	[2, 	8, 	500, 	10],
